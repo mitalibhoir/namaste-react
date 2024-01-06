@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is react project created from namaste-react reference.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitalibhoir/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Mitali Bhoir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitalibhoir/namaste-react/issues"
+  },
+  "homepage": "https://github.com/mitalibhoir/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
